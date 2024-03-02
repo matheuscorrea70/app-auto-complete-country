@@ -7,3 +7,4 @@
 - Access http://localhost:5173/ in your browser
 
 - Type a letter in the auto-complete input
+
