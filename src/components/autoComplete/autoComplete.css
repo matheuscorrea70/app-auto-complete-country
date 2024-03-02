@@ -1,0 +1,13 @@
+.auto-complete {
+  --input-height: 3.188rem;
+  --input-min-width: 20rem;
+
+  position: relative;
+}
+
+.auto-complete .auto-complete__input {
+  height: var(--input-height);
+  min-width: var(--input-min-width);
+  padding: 0 1rem;
+  width: 100%;
+}
